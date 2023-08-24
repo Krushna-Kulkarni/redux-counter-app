@@ -1,2 +1,2 @@
 # redux-counter-app
-Created with CodeSandbox
+Simple Countr Made For Learning @reduxjs/toolkit
