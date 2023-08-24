@@ -1,2 +1,2 @@
 # redux-counter-app
-Simple Countr Made For Learning @reduxjs/toolkit
+Simple Counter Made For Learning @reduxjs/toolkit
